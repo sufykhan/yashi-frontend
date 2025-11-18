@@ -20,6 +20,9 @@ const Header = () => {
           </a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="/airbnb-analysis">Airbnb Analysis</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="/">Features</a>
         </li>
         <li class="nav-item">
